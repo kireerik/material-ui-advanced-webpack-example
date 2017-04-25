@@ -1,6 +1,6 @@
-# [Material-UI](https://github.com/callemall/material-ui) - Example Webpack Project
+# [Material-UI](https://github.com/callemall/material-ui) - Andvanced Example Webpack Project
 
-This is an example project that uses [Material-UI](https://github.com/callemall/material-ui).
+This is an advanced [example project](https://github.com/callemall/material-ui-webpack-example) that uses [Material-UI](https://github.com/callemall/material-ui).
 
 ## Installation
 
