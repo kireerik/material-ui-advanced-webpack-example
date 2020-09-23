@@ -5,8 +5,8 @@
 	}
 	, "dependencies": {
 		"material-ui": "0.x"
-		, "react": "15.x"
-		, "react-dom": "15.x"
+		, "react": "16.5.0"
+		, "react-dom": "16.5.0"
 		, "react-tap-event-plugin": "2.x"
 	}
 	, "devDependencies": {
